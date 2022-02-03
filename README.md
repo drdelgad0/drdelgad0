@@ -11,9 +11,9 @@ Professor and researcher at the Universidad Cooperativa de Colombia. Dr. Delgado
 
 ## Interests
 - Machine Learning
-- Solubilidad
+- Solubility
 - Big Data
-- Modelación Matemática
+- Mathematical Modeling
 
 ## Contact
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
