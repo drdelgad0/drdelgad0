@@ -1,4 +1,4 @@
-# Hola, 👋 Daniel Ricardo Delgado:
+# Hello, 👋 I'm Daniel:
 
 Me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas.
 
