@@ -1,4 +1,4 @@
-# Hola, soy Rossember Edén Cardenas Torres: 👋
+# Hola, 👋 Daniel Ricardo Delgado:
 
 Me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas.
 
