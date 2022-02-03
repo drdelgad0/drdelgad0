@@ -1,4 +1,4 @@
-# Hello, 👋 I'm Daniel:
+# Hi there, 👋 I'm Daniel:
 
 Professor and researcher at the Universidad Cooperativa de Colombia. Dr. Delgado has published more than 120 papers in peer-reviewed journals.
 
